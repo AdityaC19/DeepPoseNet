@@ -1,0 +1,4 @@
+Python >= 3.8
+numpy >= 1.16.2
+torch >= 1.0.1.post2
+pyrender >= 2.0
