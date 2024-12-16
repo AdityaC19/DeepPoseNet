@@ -1,4 +1,4 @@
-# Sports-Analytics-using-SMPL
+
 
 ## Installation steps:
 
