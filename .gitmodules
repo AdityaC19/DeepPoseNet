@@ -1,3 +1,9 @@
 [submodule "pose"]
 	path = pose
 	url = https://github.com/open-mmlab/mmaction2.git
+[submodule "openpose"]
+	path = openpose
+	url = https://github.com/AdityaC19/openpose.git
+[submodule "smplify-x"]
+	path = smplify-x
+	url = https://github.com/AdityaC19/smplify-x.git
