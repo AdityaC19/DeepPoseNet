@@ -45,4 +45,8 @@ python smplifyx/main.py \
       --vposer_ckpt vposer_v1_0 --part_segm_fn smplx_parts_segm.pkl
 
 ```
-where the DATA_FOLDER should contain two subfolders, images, where the images are located, and keypoints, where the OpenPose output should be stored.
+where the DATA_FOLDER should contain two subfolders, images, where the images are located, and keypoints, where the OpenPose output should be stored. 
+
+Note: _2D Keypoints for input image can be obtained from Openpose. Detailed instructions for installation are mentioned in Openpose repository forked above_
+
+# Skeleton Based Action Recognition
